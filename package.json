@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-da-vinci-hackathon",
+  "version": "1.0.0",
+  "description": "Discord Bot Da Vinci Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TvanEert/Discord-Bot-Da-Vinci-Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TvanEert/Discord-Bot-Da-Vinci-Hackathon/issues"
+  },
+  "homepage": "https://github.com/TvanEert/Discord-Bot-Da-Vinci-Hackathon#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
