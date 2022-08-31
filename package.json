@@ -19,5 +19,8 @@
   "homepage": "https://github.com/TvanEert/Discord-Bot-Da-Vinci-Hackathon#readme",
   "dependencies": {
     "discord.js": "^14.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
   }
 }
